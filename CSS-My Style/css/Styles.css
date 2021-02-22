@@ -1,0 +1,21 @@
+body {
+margin: 0
+}
+
+
+.top-gamer {
+Background-color: #E4F9F5
+}
+
+.middle-gamer {
+ Background-color: blue;
+ height: 200px;
+ width :200px;
+}
+
+
+.bottom-gamer{
+  background-color: red;
+  height:200px;
+  width :200px;
+}
